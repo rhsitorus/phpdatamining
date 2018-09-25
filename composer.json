@@ -1,0 +1,12 @@
+{
+    "name": "rofilde/phpdatamining",
+    "description": "tools for data mining algorithm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rofilde Hasudungan",
+            "email": "rofilde@gmail.com"
+        }
+    ],
+    "require": {}
+}
