@@ -8,5 +8,12 @@
             "email": "rofilde@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "doctrine/collections": "^1.5"
+    }
 }
